@@ -6,4 +6,6 @@ Realizando peticiones POST a través de un  formulario
 # Herramientas:
 - Spring Tool Suite 4
 - Spring Boot 2.3.5
+- Spring Web 
+- Thymeleaf
 
